@@ -1,0 +1,12 @@
+{
+  "minVersion": "0.7.11",
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.autfly.mappreview.mixin",
+  "refmap": "mixins.mappreview.refmap.json",
+  "mixins": [
+    "MixinContainerScreen",
+    "MixinIngameGui"
+  ],
+  "client": [],
+  "server": []
+}
